@@ -12,7 +12,7 @@ yellow="\033[0;33m"
 * To install gnome terminal type :-
 apt-get install gnome-terminal
  
-* To Run This Tool You Mut Be Root
+* To Run This Tool You Must Be Root
 
 * To Run This Tool You Must Type This Command After Install It :-
 chmod +x m-scanner
