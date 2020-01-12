@@ -25,7 +25,7 @@ chmod +x m-scanner
 * The Nikto Step May Take Some Time To Run
 Notes
 #banner
-cat << "EOF"
+cat <<"EOF"
 
 ███╗   ███╗      ███████╗ ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
 ████╗ ████║      ██╔════╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
