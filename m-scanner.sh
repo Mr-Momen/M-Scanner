@@ -37,6 +37,9 @@ cat <<"EOF"
 By Mr Momen                     
 EOF
 sleep 1
+
+apt-get install gnome-terminal
+
 #{if} statments
 if [ $(whoami) != "root" ]
 then
